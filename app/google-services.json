@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "68011681488",
+    "firebase_url": "https://thuso-3db8f.firebaseio.com",
+    "project_id": "thuso-3db8f",
+    "storage_bucket": "thuso-3db8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68011681488:android:9bbf53c5c647e78e",
+        "android_client_info": {
+          "package_name": "com.anesu.mmino"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68011681488-e7vkps3gam8s75vkdqbn9oh4cer42kn4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anesu.mmino",
+            "certificate_hash": "7cb2c03cd694644b4e0a4900905f0f3dfa74478d"
+          }
+        },
+        {
+          "client_id": "68011681488-ubs3epnurq5l7rc1j46tj4fr9ro8q67e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2A0f9CXdIk7WV7C2EO3ZfbRtZ2QAozbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68011681488-ubs3epnurq5l7rc1j46tj4fr9ro8q67e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68011681488:android:38bcfef1ab1dc344",
+        "android_client_info": {
+          "package_name": "com.anesu.tosunga"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68011681488-4rdm875m0n9ugsjsqm6ojr2f8939bqpj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anesu.tosunga",
+            "certificate_hash": "7cb2c03cd694644b4e0a4900905f0f3dfa74478d"
+          }
+        },
+        {
+          "client_id": "68011681488-ubs3epnurq5l7rc1j46tj4fr9ro8q67e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2A0f9CXdIk7WV7C2EO3ZfbRtZ2QAozbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68011681488-ubs3epnurq5l7rc1j46tj4fr9ro8q67e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68011681488:android:6cbe843ef3da22ea",
+        "android_client_info": {
+          "package_name": "com.thuso.anesu.thuso"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68011681488-nsbis6na11gg9rvoei2lcd37729ov2q1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thuso.anesu.thuso",
+            "certificate_hash": "7cb2c03cd694644b4e0a4900905f0f3dfa74478d"
+          }
+        },
+        {
+          "client_id": "68011681488-ubs3epnurq5l7rc1j46tj4fr9ro8q67e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2A0f9CXdIk7WV7C2EO3ZfbRtZ2QAozbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68011681488-ubs3epnurq5l7rc1j46tj4fr9ro8q67e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
